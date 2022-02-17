@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+<h1 align="center"> Raistlin Hume </h1>
 
-You can use the [editor on GitHub](https://github.com/EterniTea/eternitea.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<h4 align="center"> Dedicated Customer Service Specialist | raistlin.hume@gmail.com | Toronto, ON. </h4>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Experienced Customer Service Specialist with experience gained in the service sector. Confident when speaking
+with customers and attending to their needs. Adept at solving problems and able to think quickly on feet.
+Practiced at offering a first-class service to customers, making their experience right, the first time. Able to lift
+50lb + and proficient in multiple programs and services including MS Office, iSell, SAMS, and PDOC.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2 align="left"> Work Experience </h2>
 
-```markdown
-Syntax highlighted code block
+**IKEA North York, Toronto ON.**\
+**December 2021 - Present** 
 
-# Header 1
-## Header 2
-### Header 3
+*Returns and Exchanges Team Support (shift/floor supervisor)*
+<br/><br/>
 
-- Bulleted
-- List
+**IKEA North York, Toronto ON.**\
+**September 2017 - December 2021**
+<br/><br/>
+*Customer Relations Support (Full time)*
+<br/><br/>
 
-1. Numbered
-2. List
+**IKEA North York, Toronto ON.**\
+**November 2015 - September 2017**
+<br/><br/>
+*Home Delivery Co-worker*
+<br/><br/>
 
-**Bold** and _Italic_ and `Code` text
+**Rexall Pharma Plus, Toronto ON.**\
+**October 2015 - August 2016**
+<br/><br/>
 
-[Link](url) and ![Image](src)
-```
+**Fader's Bottle Exchange and Envirocentre, Sackville NS.**\
+**June 2014 - August 2015**
+<br/><br/>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+---
 
-### Jekyll Themes
+<h2 align ="left"> Skills </h2>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EterniTea/eternitea.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
