@@ -24,7 +24,7 @@ and procedures are being followed.
 * Identifying and troubleshooting various department issues such as failing equipment and programs.
 * Supporting coworkers with existing, new, and changing processes.
 
-<br/><br/>
+<br/>
 
 **IKEA North York, Toronto ON.**\
 **September 2017 - December 2021**
@@ -36,7 +36,7 @@ and accurate information.
 * Assisted in the rollout of various features at store level including the new lost and found system for
 non-valuable items.
 
-<br/><br/>
+<br/>
 
 **IKEA North York, Toronto ON.**\
 **November 2015 - September 2017**
@@ -45,15 +45,16 @@ non-valuable items.
 * Assists customers with all aspects of home delivery, including booking assembly.
 * Training new co-workers on department duties, KPIs, and general company knowledge.
 * Contacting external service providers to follow up on customer complaints and service deviations.
+
 <br/><br/>
 
 **Rexall Pharma Plus, Toronto ON.**\
 **October 2015 - August 2016**
-<br/><br/>
+<br/>
 
 **Fader's Bottle Exchange and Envirocentre, Sackville NS.**\
 **June 2014 - August 2015**
-<br/><br/>
+<br/>
 
 ---
 
