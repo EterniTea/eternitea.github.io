@@ -61,7 +61,7 @@ non-valuable items.
 <h2 align ="left"> Skills </h2>
 
 | Microsoft Excel | Customer Service | CSS |
-|---|---|---|
+|:---:|:---:|:---:|
 | **Java** | **Training** | **3D Printing** |
 | **Windows 7/10** | **OBS/Livestreaming** | **Markdown** |
 
