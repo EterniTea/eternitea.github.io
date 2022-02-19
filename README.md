@@ -46,7 +46,7 @@ non-valuable items.
 * Training new co-workers on department duties, KPIs, and general company knowledge.
 * Contacting external service providers to follow up on customer complaints and service deviations.
 
-<br/><br/>
+<br/><br/><br/>
 
 **Rexall Pharma Plus, Toronto ON.**\
 **October 2015 - August 2016**
