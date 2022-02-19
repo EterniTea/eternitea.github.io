@@ -72,8 +72,8 @@ non-valuable items.
 **CompTIA A+ Certification (In progress)**\
 *LinkedIn Learning - September 2021-Present*
 <br/><br/>
-**Bachelor of Science: Major in Chemistry w/ minor in Computer Science (Incomplete)**\
+**Bachelor of Science: Major in Chemistry w/ minor in Computer Science**\
 *Dalhousie University, Halifax, NS - January 2013-March 2015*
 <br/><br/>
-**Bachelor of Engineering (Incomplete)**\
+**Bachelor of Engineering**\
 *Dalhousie University, Halifax, NS - January 2013-March 2015*
